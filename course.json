@@ -1,0 +1,24 @@
+{
+  "beginner": [
+    {
+      "day": 1,
+      "title": "新手全身激活训练（30分钟）",
+      "duration": "30分钟",
+      "sections": [
+        {"name": "热身", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"},
+        {"name": "徒手深蹲+平板支撑", "time": "20分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"},
+        {"name": "全身拉伸", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"}
+      ]
+    },
+    {
+      "day": 2,
+      "title": "核心力量入门（30分钟）",
+      "duration": "30分钟",
+      "sections": [
+        {"name": "动态热身", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"},
+        {"name": "卷腹+臀桥", "time": "20分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"},
+        {"name": "核心拉伸", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"}
+      ]
+    }
+  ]
+}
