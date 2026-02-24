@@ -2,84 +2,270 @@
   "beginner": [
     {
       "day": 1,
-      "title": "新手全身激活训练（30分钟）",
-      "duration": "30分钟",
+      "title": "帕梅拉新手全身激活（30分钟）",
       "sections": [
-        {"name": "动态热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"},
-        {"name": "徒手深蹲+平板支撑+开合跳", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"},
-        {"name": "全身静态拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"}
+        {"name": "6分钟晨间魔法（热身）", "time": "6分钟", "url": "https://www.bilibili.com/video/BV1fZfuB6Eg9?spm_id_from=333.1387.upload.video_card.click"},
+        {"name": "10分钟严型拷腹（核心）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV12K411x7A1?spm_id_from=333.1387.0.0"},
+        {"name": "6分钟灵活肩背（拉伸）", "time": "6分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
       ]
     },
     {
       "day": 2,
-      "title": "核心力量入门（30分钟）",
-      "duration": "30分钟",
+      "title": "帕梅拉有氧燃脂入门（28分钟）",
       "sections": [
-        {"name": "核心激活热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1qK411577Q"},
-        {"name": "卷腹+臀桥+俄罗斯转体", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1qK411577Q"},
-        {"name": "核心放松拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1qK411577Q"}
+        {"name": "10分钟简易快乐有氧（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1e8xseSEQq?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟有氧一千步（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1uE4m197xk?spm_id_from=333.1387.0.0"},
+        {"name": "8分钟全身拉伸（补充）", "time": "8分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
       ]
     },
     {
       "day": 3,
-      "title": "上肢力量训练（30分钟）",
-      "duration": "30分钟",
+      "title": "帕梅拉核心强化（25分钟）",
       "sections": [
-        {"name": "肩部手腕热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1bt411o7cQ"},
-        {"name": "俯卧撑+靠墙静推+哑铃弯举（徒手替代）", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1bt411o7cQ"},
-        {"name": "上肢拉伸放松", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1bt411o7cQ"}
+        {"name": "5分钟核心激活（热身）", "time": "5分钟", "url": "https://www.bilibili.com/video/BV12K411x7A1?spm_id_from=333.1387.0.0"},
+        {"name": "15分钟站立腹肌+燃脂（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1LKazzeEMJ?spm_id_from=333.1387.upload.video_card.click"},
+        {"name": "5分钟美腹慢练（放松）", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1fz1LYhEEn?spm_id_from=333.1387.0.0"}
       ]
     },
     {
       "day": 4,
-      "title": "下肢塑形训练（30分钟）",
-      "duration": "30分钟",
+      "title": "帕梅拉臀部塑形（28分钟）",
       "sections": [
-        {"name": "髋关节动态热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1sb411i7aT"},
-        {"name": "弓步蹲+臀桥+提踵训练", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1sb411i7aT"},
-        {"name": "大腿+臀部拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1sb411i7aT"}
+        {"name": "10分钟臀部激活（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1KR4y1y7AW?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟臀部训练无跳跃（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV12f4y1q7Vm?spm_id_from=333.1387.0.0"},
+        {"name": "8分钟翘臀放松（拉伸）", "time": "8分钟", "url": "https://www.bilibili.com/video/BV1iF411978n?spm_id_from=333.1387.0.0"}
       ]
     },
     {
       "day": 5,
-      "title": "低强度燃脂训练（30分钟）",
-      "duration": "30分钟",
+      "title": "帕梅拉上肢塑形（29分钟）",
       "sections": [
-        {"name": "全身轻热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1Wx411K7rb"},
-        {"name": "开合跳+高抬腿+后踢腿（间歇）", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1Wx411K7rb"},
-        {"name": "慢节奏全身拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1Wx411K7rb"}
+        {"name": "10分钟动感手臂（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1bt4y1L7SC?spm_id_from=333.1387.0.0"},
+        {"name": "15分钟完美天鹅臂（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1cF411Z7TW?spm_id_from=333.1387.0.0"},
+        {"name": "4分钟肩背放松（拉伸）", "time": "4分钟", "url": "https://www.bilibili.com/video/BV1gF411A7fW?spm_id_from=333.1387.0.0"}
       ]
     },
     {
       "day": 6,
-      "title": "综合力量训练（30分钟）",
-      "duration": "30分钟",
+      "title": "帕梅拉热舞燃脂（30分钟）",
       "sections": [
-        {"name": "综合热身（肩+髋+核心）", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xs41197qk"},
-        {"name": "波比跳+平板支撑变式+深蹲组合", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1xs41197qk"},
-        {"name": "深度放松拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xs41197qk"}
+        {"name": "10分钟性感热舞（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1CBiSBTE2n?spm_id_from=333.1387.upload.video_card.click"},
+        {"name": "15分钟复古金曲有氧热舞（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV15P4y1J7TL?spm_id_from=333.1387.0.0"},
+        {"name": "5分钟全身放松（拉伸）", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
       ]
     },
     {
       "day": 7,
-      "title": "恢复放松训练（30分钟）",
-      "duration": "30分钟",
+      "title": "帕梅拉普拉提恢复（30分钟）",
       "sections": [
-        {"name": "轻量关节活动", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1kW411W78H"},
-        {"name": "瑜伽基础体式（放松为主）", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1kW411W78H"},
-        {"name": "冥想+全身放松", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1kW411W78H"}
+        {"name": "15分钟普拉提训练（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1Wm4y1U72s?spm_id_from=333.1387.0.0"},
+        {"name": "12分钟臀腹综合普拉提（进阶）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1eGNXeVEb5?spm_id_from=333.1387.search.video_card.click"},
+        {"name": "3分钟轻拉伸（放松）", "time": "3分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
       ]
-    }
-  ],
-  "advanced": [
+    },
     {
-      "day": 1,
-      "title": "进阶全身高强度训练（30分钟）",
-      "duration": "30分钟",
+      "day": 8,
+      "title": "帕梅拉腰腹进阶（28分钟）",
       "sections": [
-        {"name": "高强度动态热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"},
-        {"name": "负重深蹲+俯卧撑变式+登山跑", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"},
-        {"name": "快速拉伸放松", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"}
+        {"name": "10分钟瘦腰进阶（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1RV411r7DS?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟腹肌崛起（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1Wh4y1n7pw?spm_id_from=333.1387.0.0"},
+        {"name": "8分钟美腹慢练（放松）", "time": "8分钟", "url": "https://www.bilibili.com/video/BV1fz1LYhEEn?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 9,
+      "title": "帕梅拉大腿塑形（29分钟）",
+      "sections": [
+        {"name": "15分钟大腿内外侧（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1xK4y1G7aR?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟翘臀虐燃（补充）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1y64y1Y7sR?spm_id_from=333.1387.0.0"},
+        {"name": "4分钟腿部拉伸（放松）", "time": "4分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
+      ]
+    },
+    {
+      "day": 10,
+      "title": "帕梅拉肩背改善（28分钟）",
+      "sections": [
+        {"name": "10分钟拜拜圆肩驼背（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1gF411A7fW?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟提胸美背（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1K34y1X7dw?spm_id_from=333.1387.0.0"},
+        {"name": "8分钟纤臂塑造（补充）", "time": "8分钟", "url": "https://www.bilibili.com/video/BV1xyLvzPEsW?spm_id_from=333.337.search-card.all.click"}
+      ]
+    },
+    {
+      "day": 11,
+      "title": "帕梅拉HIIT燃脂（29分钟）",
+      "sections": [
+        {"name": "10分钟电音HIIT（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1LT4m1S7qQ?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟中级HIIT（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1EL4y1B7sZ?spm_id_from=333.1387.0.0"},
+        {"name": "9分钟劲舞放松（补充）", "time": "9分钟", "url": "https://www.bilibili.com/video/BV1zR4y1t7tR?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 12,
+      "title": "帕梅拉有氧两千步（30分钟）",
+      "sections": [
+        {"name": "20分钟有氧两千步（主训）", "time": "20分钟", "url": "https://www.bilibili.com/video/BV1wL9sYEE8t?spm_id_from=333.1387.search.video_card.click"},
+        {"name": "10分钟简单有氧（放松）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1qz42197Tq?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 13,
+      "title": "帕梅拉翘臀专项（28分钟）",
+      "sections": [
+        {"name": "12分钟翘臀无下蹲（热身）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1Ck4y127oC?spm_id_from=333.1387.0.0"},
+        {"name": "15分钟翘臀魔法（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1iF411978n?spm_id_from=333.1387.0.0"},
+        {"name": "1分钟轻拉伸（放松）", "time": "1分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
+      ]
+    },
+    {
+      "day": 14,
+      "title": "帕梅拉手臂重训（29分钟）",
+      "sections": [
+        {"name": "15分钟站立手臂重训（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1Gzy1B8ECr?spm_id_from=333.1387.upload.video_card.click"},
+        {"name": "10分钟站姿纤臂（补充）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1xyLvzPEsW?spm_id_from=333.337.search-card.all.click"},
+        {"name": "4分钟肩背放松（拉伸）", "time": "4分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
+      ]
+    },
+    {
+      "day": 15,
+      "title": "帕梅拉热舞暴汗（30分钟）",
+      "sections": [
+        {"name": "15分钟暴汗热舞（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1k3411o7Wk?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟火辣拉丁（补充）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1kU411U7bv?spm_id_from=333.1387.0.0"},
+        {"name": "5分钟阳光热舞（放松）", "time": "5分钟", "url": "https://www.bilibili.com/video/BV11e411g7EL?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 16,
+      "title": "帕梅拉普拉提融合（30分钟）",
+      "sections": [
+        {"name": "15分钟臀部融合普拉提（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1GZ4y1U74M?spm_id_from=333.1387.search.video_card.click"},
+        {"name": "15分钟优雅虐腹普拉提（补充）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1Eo4y1z7SF?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 17,
+      "title": "帕梅拉全身慢速（29分钟）",
+      "sections": [
+        {"name": "10分钟全身慢速（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1Sv411g7qJ?spm_id_from=333.1387.0.0"},
+        {"name": "12分钟普拉提（补充）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1UD4y1B7m8?spm_id_from=333.1387.0.0"},
+        {"name": "7分钟晨间魔法（放松）", "time": "7分钟", "url": "https://www.bilibili.com/video/BV1fZfuB6Eg9?spm_id_from=333.1387.upload.video_card.click"}
+      ]
+    },
+    {
+      "day": 18,
+      "title": "帕梅拉欢乐有氧（29分钟）",
+      "sections": [
+        {"name": "12分钟欢乐有氧（主训）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1e5411n7Mq?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟达阵燃脂（补充）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1H6P5e2E8g?spm_id_from=333.337.search-card.all.click"},
+        {"name": "7分钟轻拉伸（放松）", "time": "7分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
+      ]
+    },
+    {
+      "day": 19,
+      "title": "帕梅拉高光合集（28分钟）",
+      "sections": [
+        {"name": "10分钟高光训练合集（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1PW4y1n7Qy?spm_id_from=333.1387.0.0"},
+        {"name": "12分钟Happy Sweat（补充）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1E54y1B7oZ?spm_id_from=333.1387.0.0"},
+        {"name": "6分钟晨间魔法（放松）", "time": "6分钟", "url": "https://www.bilibili.com/video/BV1fZfuB6Eg9?spm_id_from=333.1387.upload.video_card.click"}
+      ]
+    },
+    {
+      "day": 20,
+      "title": "帕梅拉蜜桃翘臀（29分钟）",
+      "sections": [
+        {"name": "10分钟蜜桃翘臀（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1Uf4y1G7b6?spm_id_from=333.1387.0.0"},
+        {"name": "15分钟臀部融合普拉提（补充）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1GZ4y1U74M?spm_id_from=333.1387.search.video_card.click"},
+        {"name": "4分钟轻拉伸（放松）", "time": "4分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
+      ]
+    },
+    {
+      "day": 21,
+      "title": "帕梅拉天鹅臂专项（29分钟）",
+      "sections": [
+        {"name": "15分钟完美天鹅臂（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1cF411Z7TW?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟动感手臂（补充）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1bt4y1L7SC?spm_id_from=333.1387.0.0"},
+        {"name": "4分钟肩背放松（拉伸）", "time": "4分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
+      ]
+    },
+    {
+      "day": 22,
+      "title": "帕梅拉低冲击有氧（30分钟）",
+      "sections": [
+        {"name": "15分钟大腿内外侧（热身）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1xK4y1G7aR?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟达阵燃脂（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1H6P5e2E8g?spm_id_from=333.337.search-card.all.click"},
+        {"name": "5分钟简单有氧（放松）", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1qz42197Tq?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 23,
+      "title": "帕梅拉放松恢复（28分钟）",
+      "sections": [
+        {"name": "6分钟灵活肩背（热身）", "time": "6分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"},
+        {"name": "12分钟普拉提（主训）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1UD4y1B7m8?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟全身慢速（放松）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1Sv411g7qJ?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 24,
+      "title": "帕梅拉复古热舞（30分钟）",
+      "sections": [
+        {"name": "15分钟复古金曲热舞（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV15P4y1J7TL?spm_id_from=333.1387.0.0"},
+        {"name": "9分钟热辣劲舞（补充）", "time": "9分钟", "url": "https://www.bilibili.com/video/BV1zR4y1t7tR?spm_id_from=333.1387.0.0"},
+        {"name": "6分钟晨间魔法（放松）", "time": "6分钟", "url": "https://www.bilibili.com/video/BV1fZfuB6Eg9?spm_id_from=333.1387.upload.video_card.click"}
+      ]
+    },
+    {
+      "day": 25,
+      "title": "帕梅拉臀腹综合（29分钟）",
+      "sections": [
+        {"name": "12分钟臀腹普拉提（热身）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1eGNXeVEb5?spm_id_from=333.1387.search.video_card.click"},
+        {"name": "10分钟严型拷腹（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV12K411x7A1?spm_id_from=333.1387.0.0"},
+        {"name": "7分钟美腹慢练（放松）", "time": "7分钟", "url": "https://www.bilibili.com/video/BV1fz1LYhEEn?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 26,
+      "title": "帕梅拉进阶HIIT（28分钟）",
+      "sections": [
+        {"name": "10分钟电音HIIT（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1LT4m1S7qQ?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟中级HIIT（补充）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1EL4y1B7sZ?spm_id_from=333.1387.0.0"},
+        {"name": "8分钟简单有氧（放松）", "time": "8分钟", "url": "https://www.bilibili.com/video/BV1qz42197Tq?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 27,
+      "title": "帕梅拉蜜桃臀进阶（30分钟）",
+      "sections": [
+        {"name": "10分钟翘臀虐燃（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1y64y1Y7sR?spm_id_from=333.1387.0.0"},
+        {"name": "12分钟翘臀无下蹲（主训）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1Ck4y127oC?spm_id_from=333.1387.0.0"},
+        {"name": "8分钟翘臀魔法（放松）", "time": "8分钟", "url": "https://www.bilibili.com/video/BV1iF411978n?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 28,
+      "title": "帕梅拉全身综合（30分钟）",
+      "sections": [
+        {"name": "10分钟高光合集（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1PW4y1n7Qy?spm_id_from=333.1387.0.0"},
+        {"name": "12分钟Happy Sweat（主训）", "time": "12分钟", "url": "https://www.bilibili.com/video/BV1E54y1B7oZ?spm_id_from=333.1387.0.0"},
+        {"name": "8分钟全身慢速（放松）", "time": "8分钟", "url": "https://www.bilibili.com/video/BV1Sv411g7qJ?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 29,
+      "title": "帕梅拉燃脂冲刺（29分钟）",
+      "sections": [
+        {"name": "10分钟有氧一千步（热身）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1uE4m197xk?spm_id_from=333.1387.0.0"},
+        {"name": "10分钟简易快乐有氧（主训）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1e8xseSEQq?spm_id_from=333.1387.0.0"},
+        {"name": "9分钟热辣劲舞（放松）", "time": "9分钟", "url": "https://www.bilibili.com/video/BV1zR4y1t7tR?spm_id_from=333.1387.0.0"}
+      ]
+    },
+    {
+      "day": 30,
+      "title": "帕梅拉月度总结训练（30分钟）",
+      "sections": [
+        {"name": "15分钟站立腹肌+燃脂（主训）", "time": "15分钟", "url": "https://www.bilibili.com/video/BV1LKazzeEMJ?spm_id_from=333.1387.upload.video_card.click"},
+        {"name": "10分钟提胸美背（补充）", "time": "10分钟", "url": "https://www.bilibili.com/video/BV1K34y1X7dw?spm_id_from=333.1387.0.0"},
+        {"name": "5分钟灵活肩背（放松）", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1YfkcY6E1m?spm_id_from=333.1387.homepage.video_card.click"}
       ]
     }
   ]
