@@ -5,9 +5,9 @@
       "title": "新手全身激活训练（30分钟）",
       "duration": "30分钟",
       "sections": [
-        {"name": "热身", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"},
-        {"name": "徒手深蹲+平板支撑", "time": "20分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"},
-        {"name": "全身拉伸", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"}
+        {"name": "动态热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"},
+        {"name": "徒手深蹲+平板支撑+开合跳", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"},
+        {"name": "全身静态拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"}
       ]
     },
     {
@@ -15,9 +15,71 @@
       "title": "核心力量入门（30分钟）",
       "duration": "30分钟",
       "sections": [
-        {"name": "动态热身", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"},
-        {"name": "卷腹+臀桥", "time": "20分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"},
-        {"name": "核心拉伸", "time": "5分钟", "url": "https://www.bilibili.com/video/BV1xx411c7mD"}
+        {"name": "核心激活热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1qK411577Q"},
+        {"name": "卷腹+臀桥+俄罗斯转体", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1qK411577Q"},
+        {"name": "核心放松拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1qK411577Q"}
+      ]
+    },
+    {
+      "day": 3,
+      "title": "上肢力量训练（30分钟）",
+      "duration": "30分钟",
+      "sections": [
+        {"name": "肩部手腕热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1bt411o7cQ"},
+        {"name": "俯卧撑+靠墙静推+哑铃弯举（徒手替代）", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1bt411o7cQ"},
+        {"name": "上肢拉伸放松", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1bt411o7cQ"}
+      ]
+    },
+    {
+      "day": 4,
+      "title": "下肢塑形训练（30分钟）",
+      "duration": "30分钟",
+      "sections": [
+        {"name": "髋关节动态热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1sb411i7aT"},
+        {"name": "弓步蹲+臀桥+提踵训练", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1sb411i7aT"},
+        {"name": "大腿+臀部拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1sb411i7aT"}
+      ]
+    },
+    {
+      "day": 5,
+      "title": "低强度燃脂训练（30分钟）",
+      "duration": "30分钟",
+      "sections": [
+        {"name": "全身轻热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1Wx411K7rb"},
+        {"name": "开合跳+高抬腿+后踢腿（间歇）", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1Wx411K7rb"},
+        {"name": "慢节奏全身拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1Wx411K7rb"}
+      ]
+    },
+    {
+      "day": 6,
+      "title": "综合力量训练（30分钟）",
+      "duration": "30分钟",
+      "sections": [
+        {"name": "综合热身（肩+髋+核心）", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xs41197qk"},
+        {"name": "波比跳+平板支撑变式+深蹲组合", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1xs41197qk"},
+        {"name": "深度放松拉伸", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xs41197qk"}
+      ]
+    },
+    {
+      "day": 7,
+      "title": "恢复放松训练（30分钟）",
+      "duration": "30分钟",
+      "sections": [
+        {"name": "轻量关节活动", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1kW411W78H"},
+        {"name": "瑜伽基础体式（放松为主）", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1kW411W78H"},
+        {"name": "冥想+全身放松", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1kW411W78H"}
+      ]
+    }
+  ],
+  "advanced": [
+    {
+      "day": 1,
+      "title": "进阶全身高强度训练（30分钟）",
+      "duration": "30分钟",
+      "sections": [
+        {"name": "高强度动态热身", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"},
+        {"name": "负重深蹲+俯卧撑变式+登山跑", "time": "20分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"},
+        {"name": "快速拉伸放松", "time": "5分钟", "url": "https://m.bilibili.com/video/BV1xx411c7mD"}
       ]
     }
   ]
